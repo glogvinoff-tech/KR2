@@ -1,0 +1,10 @@
+C:\Users\L\source\repos\pidr\pidr\bin\Debug\pidr.exe.config
+C:\Users\L\source\repos\pidr\pidr\bin\Debug\pidr.exe
+C:\Users\L\source\repos\pidr\pidr\bin\Debug\pidr.pdb
+C:\Users\L\source\repos\pidr\pidr\obj\Debug\pidr.csproj.AssemblyReference.cache
+C:\Users\L\source\repos\pidr\pidr\obj\Debug\pidr.Properties.Resources.resources
+C:\Users\L\source\repos\pidr\pidr\obj\Debug\pidr.csproj.GenerateResource.cache
+C:\Users\L\source\repos\pidr\pidr\obj\Debug\pidr.csproj.CoreCompileInputs.cache
+C:\Users\L\source\repos\pidr\pidr\obj\Debug\pidr.exe
+C:\Users\L\source\repos\pidr\pidr\obj\Debug\pidr.pdb
+C:\Users\L\source\repos\pidr\pidr\obj\Debug\pidr.exe.config
